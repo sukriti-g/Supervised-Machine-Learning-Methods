@@ -10,3 +10,6 @@ Supervised Learning has 2 main types of problems, and that is what this repo cov
 2. Classification
    - predicting the class/category based on the inputs
 
+## Regression
+
+In order to be able to predict a number, we need to find a mapping from the inputs to the output. 
